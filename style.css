@@ -1,0 +1,15 @@
+img{
+    cursor: pointer;
+
+    transition: 2s;
+}
+img:hover{
+    transform: scale(5);
+}
+.img-principal:hover {
+    transform: scale(1.5);
+}
+
+.btn{
+    width: 120px;
+}
